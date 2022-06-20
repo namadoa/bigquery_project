@@ -1,0 +1,4 @@
+outs:
+- md5: b077e1cc67f1637325ab789c7c47bab4
+  size: 26553206
+  path: properati_data.parquet
